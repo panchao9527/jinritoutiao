@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-20",
+  "slug": "2026-10-20-三品牌15款奶茶",
+  "brands": [
+    {
+      "name": "古茗",
+      "color": "#4D6656",
+      "kicker": "从茉莉花香，到布蕾甜品感",
+      "drinks": [
+        {
+          "name": "茉莉奶绿",
+          "tag": "茉莉花香",
+          "ingredients": "茉莉绿茶与奶香",
+          "tip": "想喝花香、少一点咀嚼负担时先看它。",
+          "source": "https://www.nckfhsm.com/products/mo-li-nai-lv-25227"
+        },
+        {
+          "name": "大叔奶茶",
+          "tag": "古早多料",
+          "ingredients": "红茶、红豆、布丁、珍珠",
+          "tip": "喜欢红豆和布丁，可以先用原配找口味。",
+          "source": "https://www.nckfhsm.com/products/da-shu-nai-cha"
+        },
+        {
+          "name": "布蕾脆脆奶芙",
+          "tag": "奶芙甜品",
+          "ingredients": "红茶、布蕾、珍珠、奶芙、坚果碎",
+          "tip": "想把奶茶当下午茶甜点，优先看这一杯。",
+          "source": "https://www.nckfhsm.com/products/bu-lei-cui-cui-nai-fu"
+        },
+        {
+          "name": "生椰抹茶麻薯",
+          "tag": "椰香糯糯",
+          "ingredients": "抹茶、椰乳、麻薯、糯米小丸子",
+          "tip": "选它的理由是椰香和糯感，不用一上来叠料。",
+          "source": "https://www.nckfhsm.com/zh-tw/products/sheng-ye-mo-cha-ma-shu"
+        },
+        {
+          "name": "黑糖珍珠牛乳",
+          "tag": "黑糖奶香",
+          "ingredients": "黑糖珍珠与牛乳",
+          "tip": "想喝黑糖和奶香时看它；它属于牛乳饮品。",
+          "source": "https://www.nckfhsm.com/en/products/hei-tang-zhen-zhu-niu-ru-29608"
+        }
+      ]
+    },
+    {
+      "name": "茶颜悦色",
+      "color": "#925545",
+      "kicker": "先分清奶油顶、红茶和花果香",
+      "drinks": [
+        {
+          "name": "幽兰拿铁",
+          "tag": "红茶奶油",
+          "ingredients": "红茶、奶油顶、碧根果碎",
+          "tip": "第一次想认识招牌的奶油顶风格，可以先看它。",
+          "source": "https://www.nckfhsm.com/products/you-lan-na-tie"
+        },
+        {
+          "name": "声声乌龙",
+          "tag": "蜜桃乌龙",
+          "ingredients": "蜜桃风味与乌龙茶，含乳制品",
+          "tip": "想换蜜桃乌龙方向，可以从它开始比较。",
+          "source": "https://www.nckfhsm.com/products/sheng-sheng-wu-long"
+        },
+        {
+          "name": "桂花弄",
+          "tag": "桂花乌龙",
+          "ingredients": "桂花乌龙风味，含乳制品",
+          "tip": "花香党多一个方向；它和声声乌龙的香气不同。",
+          "source": "https://www.nckfhsm.com/products/gui-hua-nong-cha-yan-yue-se"
+        },
+        {
+          "name": "素颜锡兰",
+          "tag": "红茶奶香",
+          "ingredients": "红茶与牛奶，产品介绍为去奶油顶版本",
+          "tip": "喜欢红茶牛奶、想省去顶层奶油时先看它。",
+          "source": "https://www.nckfhsm.com/products/su-yan-xi-lan"
+        },
+        {
+          "name": "抹茶菩提2.0",
+          "tag": "黄油牛乳抹茶",
+          "ingredients": "抹茶、黄油牛乳、奶油顶",
+          "tip": "喜欢奶香抹茶时看它，点单核对2.0版本。",
+          "source": "https://www.nckfhsm.com/products/mo-cha-pu-ti-2-0"
+        }
+      ]
+    },
+    {
+      "name": "卡旺卡",
+      "color": "#674F76",
+      "kicker": "多料、红豆与抹茶，按口感分着选",
+      "drinks": [
+        {
+          "name": "黑全套奶茶",
+          "tag": "奶油多料",
+          "ingredients": "红茶、黑米类配料、黑糖布丁、芋圆、奶油、碧根果碎",
+          "tip": "想认识丰富配料和奶油顶，可以从这杯开始。",
+          "source": "https://www.nckfhsm.com/zh-tw/products/hei-quan-tao-nai-cha"
+        },
+        {
+          "name": "全套奶茶",
+          "tag": "经典多料",
+          "ingredients": "咖啡红茶、芋圆、燕麦、椰果、布丁",
+          "tip": "喜欢多种咀嚼口感，先比较它的原配。",
+          "source": "https://www.nckfhsm.com/products/quan-tao-nai-cha-ka-wang-ka"
+        },
+        {
+          "name": "抹茶爽",
+          "tag": "红豆抹茶冰沙",
+          "ingredients": "抹茶、奶、红豆、奶油，冰沙形态",
+          "tip": "想喝冰沙甜品时选；想喝热饮请另选。",
+          "source": "https://www.nckfhsm.com/products/mo-cha-shuang"
+        },
+        {
+          "name": "抹茶生椰麻薯",
+          "tag": "椰香麻薯芋圆",
+          "ingredients": "抹茶、椰乳、厚乳、麻薯、芋圆",
+          "tip": "记住品牌和完整品名，别与古茗同类款混淆。",
+          "source": "https://www.nckfhsm.com/zh-tw/products/mo-cha-sheng-ye-ma-shu-ka-wang-ka"
+        },
+        {
+          "name": "红豆奶茶",
+          "tag": "红豆奶茶",
+          "ingredients": "红豆与奶茶的口味方向",
+          "tip": "想围绕红豆选一杯，先看这个经典组合。",
+          "source": "https://www.sohu.com/a/1013929131_121106832"
+        }
+      ]
+    }
+  ],
+  "titles": {
+    "xiaohongshu": "古茗茶颜卡旺卡｜15杯点单清单",
+    "weixin": "古茗、茶颜悦色、卡旺卡，各挑5杯：奶茶按口味选，才喝得对",
+    "jinritoutiao": "古茗、茶颜悦色、卡旺卡各推荐5款：15杯奶茶，按这4种口味挑"
+  },
+  "summaries": {
+    "weixin": "花香、红茶、多料、抹茶，你更想喝哪一种？从三个品牌各挑5款，讲清风味和选择理由，帮你缩小下一杯奶茶的范围。",
+    "jinritoutiao": "同样是奶茶，有人喜欢花香，有人喜欢小料。整理古茗、茶颜悦色、卡旺卡各5款，从口味、配料和饮品形态出发，看看哪杯更适合你。"
+  }
+}
