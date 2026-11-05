@@ -1,0 +1,52 @@
+{
+  "kind": "factual",
+  "claims": [
+    {
+      "claim": "卫报在2026年2月刊登关于回归纸质媒介与实体物件的署名评论。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "claim": "KPLC于2026年9月报道Going Analog，列举阅读、桌游、不看手机散步等活动。",
+      "source_ids": [
+        "s2"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/01-options.png",
+      "origin": "Pillow原生绘制的原创排版与线条信息图，无转载摄影或第三方素材",
+      "license": "original"
+    },
+    {
+      "path": "assets/02-start.png",
+      "origin": "Pillow原生绘制的原创排版与线条信息图，无转载摄影或第三方素材",
+      "license": "original"
+    },
+    {
+      "path": "assets/cover.png",
+      "origin": "Pillow原生绘制的原创排版与线条信息图，无转载摄影或第三方素材",
+      "license": "original"
+    }
+  ],
+  "references": [
+    {
+      "id": "s1",
+      "title": "Analog is back, and my millennial heart couldn’t be happier",
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/17/analog-is-back-and-my-millennial-heart-couldnt-be-happier",
+      "published_at": "2026-02-17",
+      "accessed_at": "2026-11-05T21:27:45+08:00",
+      "type": "署名评论，非总体调查"
+    },
+    {
+      "id": "s2",
+      "title": "The online trend of getting offline: Going analog",
+      "url": "https://www.kplctv.com/2026/09/21/going-analog/",
+      "published_at": "2026-09-21T15:30:00-07:00",
+      "accessed_at": "2026-11-05T21:27:45+08:00",
+      "type": "当地电视台报道及具名采访"
+    }
+  ]
+}
