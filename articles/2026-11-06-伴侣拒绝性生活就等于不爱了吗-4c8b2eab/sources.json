@@ -1,0 +1,24 @@
+{
+  "kind": "opinion",
+  "claims": [],
+  "notes": [
+    "原创成年伴侣关系观点；情境为假设，无医疗或频率结论。"
+  ],
+  "assets": [
+    {
+      "path": "assets/cover.png",
+      "origin": "Pillow原创文字信息图，无人物及外部图片",
+      "license": "original"
+    },
+    {
+      "path": "assets/01-boundary.png",
+      "origin": "Pillow原创文字信息图，无人物及外部图片",
+      "license": "original"
+    },
+    {
+      "path": "assets/02-talk.png",
+      "origin": "Pillow原创文字信息图，无人物及外部图片",
+      "license": "original"
+    }
+  ]
+}
