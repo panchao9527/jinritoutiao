@@ -1,0 +1,75 @@
+{
+  "kind": "factual",
+  "claims": [
+    {
+      "claim": "符合解释（一）第78条所列条件时，离婚先协议；协议不成可以判房屋归登记方并就共同还贷及对应增值依法补偿另一方。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "claim": "不能将加名等同固定分半；解释（二）第5条第2款对已转移登记、短婚且给予方无重大过错等情形规定裁判与补偿因素。",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "claim": "婚后工资等通常属于共同财产；书面财产约定及具体情况须另行分析。",
+      "source_ids": [
+        "s3"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "s1",
+      "title": "最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282071.html",
+      "published_at": "2020-12-30",
+      "accessed_at": "2026-11-06T21:11:55+08:00",
+      "relevant_articles": [
+        "78"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "最高法发布适用民法典婚姻家庭编的解释（二）（含全文）",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/452771.html",
+      "published_at": "2025-01-15",
+      "accessed_at": "2026-11-06T21:11:55+08:00",
+      "relevant_articles": [
+        "5"
+      ],
+      "effective_at": "2025-02-01"
+    },
+    {
+      "id": "s3",
+      "title": "中华人民共和国民法典（最高人民法院公开全文）",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html",
+      "published_at": "2020-06-01",
+      "accessed_at": "2026-11-06T21:11:55+08:00",
+      "relevant_articles": [
+        "1062",
+        "1065"
+      ]
+    }
+  ],
+  "opinion_notice": "立场为作者观点，所有场景与金额均为明确标注的假设，不是案件或用户经历。",
+  "assets": [
+    {
+      "path": "assets/cover.png",
+      "origin": "使用Pillow与本机中文字体原创绘制的信息图，无外部照片",
+      "license": "original"
+    },
+    {
+      "path": "assets/01-scenario.png",
+      "origin": "使用Pillow与本机中文字体原创绘制的信息图，无外部照片",
+      "license": "original"
+    },
+    {
+      "path": "assets/02-family.png",
+      "origin": "使用Pillow与本机中文字体原创绘制的信息图，无外部照片",
+      "license": "original"
+    }
+  ]
+}
