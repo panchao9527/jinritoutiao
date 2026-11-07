@@ -1,0 +1,43 @@
+{
+  "kind": "factual",
+  "claims": [
+    {
+      "claim": "无人机侦察及攻击对机动、补给造成压力；研究只观察特定部队和阶段，不能泛化全部战场。",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "claim": "坦克的防护机动及火力与无人机、步兵的任务存在互补；MWI刊登的是作者观点而非官方立场。",
+      "source_ids": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "claim": "M1E3在2023年项目方向中关注减重、保障和集成防护，2026年1月展示早期原型；不能当作实战效果证明。",
+      "source_ids": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/03-training-fire.jpg",
+      "origin": "https://www.army.mil/article/284588/soldiers_train_to_win_1st_cav_div_hosts_live_fire_media_day",
+      "license": "US-government official photo / public-domain; editorial use, no endorsement implied",
+      "credit": "Eric Franklin / U.S. Army",
+      "download_url": "https://api.army.mil/e2/c/images/2025/04/11/0b687908/original.jpg",
+      "caption": "2025-04-10卡瓦佐斯堡实弹训练，非战场画面"
+    },
+    {
+      "path": "assets/04-m1e3-wide.jpg",
+      "origin": "https://www.army.mil/article/290052",
+      "license": "US-government official photo / public-domain; editorial use, no endorsement implied",
+      "credit": "U.S. Army",
+      "download_url": "https://api.army.mil/e2/c/images/2026/01/16/0a8b07e8/original.jpg",
+      "caption": "2026年1月M1E3早期原型展示，非实战画面"
+    }
+  ]
+}
