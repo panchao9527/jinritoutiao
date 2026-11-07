@@ -1,0 +1,16 @@
+{
+  "kind": "opinion",
+  "claims": [],
+  "assets": [
+    {
+      "path": "assets/02-walking-couple.png",
+      "origin": "内置image_gen生成：虚构成年男女约会示意，无真人身份指称",
+      "license": "original"
+    },
+    {
+      "path": "assets/01-cafe-couple.png",
+      "origin": "内置image_gen生成：虚构成年男女约会示意，无真人身份指称",
+      "license": "original"
+    }
+  ]
+}
