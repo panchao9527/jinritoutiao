@@ -1,0 +1,21 @@
+{
+  "kind": "opinion",
+  "claims": [],
+  "assets": [
+    {
+      "path": "assets/cover.png",
+      "origin": "Pillow原创排版文字图卡，无外部图片",
+      "license": "original"
+    },
+    {
+      "path": "assets/01-money.png",
+      "origin": "Pillow原创排版文字图卡，无外部图片",
+      "license": "original"
+    },
+    {
+      "path": "assets/02-checklist.png",
+      "origin": "Pillow原创排版文字图卡，无外部图片",
+      "license": "original"
+    }
+  ]
+}
