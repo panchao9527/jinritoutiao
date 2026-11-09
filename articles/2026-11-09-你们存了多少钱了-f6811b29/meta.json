@@ -1,0 +1,15 @@
+{
+  "title": "你们存了多少钱了",
+  "summary": "由六张打码收入明细引出存款与生活开支讨论，作者不公开实际存款，邀请读者自愿评论金额区间和自己的处境。",
+  "cover": "assets/01-income-2025-redacted.png",
+  "images": [
+    "assets/01-income-2025-redacted.png",
+    "assets/02-income-2024-redacted.png",
+    "assets/03-income-2023-redacted.png",
+    "assets/04-income-2022-redacted.png",
+    "assets/05-income-2021-redacted.png",
+    "assets/06-income-2020-redacted.png"
+  ],
+  "privacy": "公司名称遮盖；作者明确不公开存款金额。",
+  "ai_assisted_text": true
+}

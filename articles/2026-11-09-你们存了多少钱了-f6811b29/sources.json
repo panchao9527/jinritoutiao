@@ -1,0 +1,49 @@
+{
+  "kind": "opinion",
+  "claims": [],
+  "notes": "收入数字来自用户提供的六张截图，未独立核验原账户。图示收入合计分别为209390.81、170587.92、176693.93、235286.07、176371.37、93379.10元，算术和1061709.20元。作者存款金额未提供且明确不公开；不把申报收入当成存款。",
+  "assets": [
+    {
+      "path": "assets/01-income-2025-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    },
+    {
+      "path": "assets/02-income-2024-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    },
+    {
+      "path": "assets/03-income-2023-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    },
+    {
+      "path": "assets/04-income-2022-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    },
+    {
+      "path": "assets/05-income-2021-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    },
+    {
+      "path": "assets/06-income-2020-redacted.png",
+      "origin": "用户原始收入截图，经内置image_gen仅作公司名称打码；已逐项对照原图核对金额与日期",
+      "license": "user-provided, authorized for this article; redacted derivative",
+      "privacy": "公司信息必须完全遮盖，仅处理后版本可交付",
+      "ai_edited": true
+    }
+  ]
+}
